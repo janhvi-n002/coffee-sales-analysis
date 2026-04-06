@@ -1,5 +1,6 @@
 ## Project Overview
-<img width="1487" height="650" alt="Screenshot 2026-04-06 095859" src="https://github.com/user-attachments/assets/b50dd506-2185-42b6-bee9-eb1a6c3e34f8" />
+<img width="1524" height="651" alt="Screenshot 2026-04-06 102852" src="https://github.com/user-attachments/assets/e008d518-cc2c-49c8-8808-5ce6a6c3c847" />
+
 
 This project focuses on analyzing coffee shop sales data to uncover trends, patterns, and actionable insights. Using advanced Excel features, a dynamic dashboard was created to support data-driven decision-making.
  Problem Statement
